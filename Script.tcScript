@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="config">
+			<child name="Config" key="{90567EE8-D7E3-4464-A233-161B17313877}" path="Config.py" />
+			<child name="BasicConfig" key="{7731705A-FCB9-463A-B101-5B8749CEB227}" path="BasicConfig.py" />
+		</folder>
+		<folder name="logs" />
+		<folder name="model" />
+		<folder name="pages">
+			<child name="bloodType" key="{FA289042-6291-4045-98E6-DB1A3C5E9639}" path="bloodType.py" />
+		</folder>
+		<folder name="utils">
+			<child name="RunApp" key="{12EECCA1-147F-4A65-9C76-F68808A9E0C5}" path="RunApp.py" />
+			<child name="CreateIdNumber" key="{1871A4A9-1C7D-43E4-9AA9-29FCF0DB5100}" path="CreateIdNumber.py" />
+			<child name="CreateName" key="{E46FFB12-6148-4751-9C9E-942DE264AC2E}" path="CreateName.py" />
+			<child name="CreatePhoneNumber" key="{D2B2BA51-14E6-488F-BCDD-BAB90053B1DD}" path="CreatePhoneNumber.py" />
+			<child name="WriteOrder" key="{60015D4A-C494-443F-8A77-C7D470080BB7}" path="WriteOrder.py" />
+			<child name="ResponseOcr" key="{623516FB-463C-45C3-808F-547752800134}" path="ResponseOcr.py" />
+			<child name="Logger" key="{4A48A6DC-24BC-49F4-B3C9-C29DA21DF62F}" path="Logger.py" />
+			<child name="ScreensShot" key="{FDA8A121-5ED4-49D1-900D-87169AE3D7C4}" path="ScreensShot.py" />
+			<child name="ToolbarFunction" key="{D14908E9-9F3A-403C-9E36-E377ACF57098}" path="ToolbarFunction.py" />
+			<child name="BaseFuntion" key="{23360AA4-D35D-4ED0-8B06-7CD7B1F3F8D9}" path="BaseFuntion.py" />
+		</folder>
+		<folder name="testcase">
+			<folder name="药房药库相关流程">
+				<child name="InventoryManagement" key="{6EFA42FD-E52E-4A4B-B3D8-A8D5D84F72DA}" path="InventoryManagement.py" />
+				<child name="Test_ApplyDrug" key="{33327ABC-CCC1-453C-9D9E-852B72AB5AC0}" path="Test_ApplyDrug.py" />
+				<child name="CheckSql" key="{A6FA5A89-ECEB-468D-A4C8-CF2440F18DBE}" path="CheckSql.py" />
+				<child name="Mid_AppDrug" key="{868A3022-9213-4210-8F8B-38D53F427D19}" path="Mid_AppDrug.py" />
+				<child name="CheckDrugMain" key="{2F7B89D5-7918-4BAB-974A-BF8C6EC4AED7}" path="CheckDrugMain.py" />
+			</folder>
+			<folder name="信息维护">
+				<child name="Analysis" key="{128DC48E-1319-4832-98EA-080A04941623}" path="Analysis.py" />
+			</folder>
+		</folder>
+		<folder name="orm" />
+		<child name="Unit1" key="{C1EB260F-C710-4F2A-BFF3-0E701B04451D}" path="Unit1.py" />
+	</children>
+</Root>
